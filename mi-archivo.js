@@ -1,1 +1,1 @@
-alert("Hola mundo desde GitHub");
+alert("Este texxto fue editado");
