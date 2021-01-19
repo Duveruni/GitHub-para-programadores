@@ -1,3 +1,3 @@
-# ienvenido a mi repositorio de GitHub
+# Bienvenido a mi repositorio de GitHub
 
 Esta es una prueba de repositorio
